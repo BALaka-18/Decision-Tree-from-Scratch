@@ -34,7 +34,6 @@ def unique_values_in_a_col(rows, col):
 
 print(unique_values_in_a_col(toy_dataset, 1))
 
-
 # In[27]:
 
 
